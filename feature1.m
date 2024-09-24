@@ -1,15 +1,16 @@
-window = ones([1,9599]);
-buffer = zeros([1,948199]);
+n = 5000
+window = ones([1,n]);
+buffer = zeros([1,948198]);
 
-spike_locations = smoothdata(abs(filt_neural_data(:,1))> 6.5);
+spike_locations = (abs(filt_neural_data(:,1))> 7.5);
 
 
-for i  = 1:length(buffer)-9599;
-    if sum(spike_locations((i):(9599+i),1))> 0;
+for i  = 1:length(buffer)-n;
+    if sum(spike_locations((i):(n+i),1))> 0;
         
     end
  
-    buffer(i) = sum(spike_locations((i):(9599+i),1))/9599;
+    buffer(i) = sum(spike_locations((i):(n+i),1))/n;
     
     
         %if buffer(i)> 0.18;
@@ -22,8 +23,9 @@ for i  = 1:length(buffer)-9599;
 
 end
 figure
-plot(buffer)
 
+plot(buffer)
+title('test')
 [envHigh, envLow] = envelope(buffer,5,"peak");
 envMean = (envHigh+envLow)/2;
 hoursPerDay = 100;
