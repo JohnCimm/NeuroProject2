@@ -1,39 +1,30 @@
-n = 5000
+sample_rate = 10000
+% hand
+filt_neural_data_h= filter_neuro(testing_data.raw_neural_data,[200,600]);%(filtfilt(d3,filt_neural_data1));
+n = 1000
 window = ones([1,n]);
-buffer = zeros([1,948198]);
+buffer2 = zeros([1,948198]);
 
-spike_locations = (abs(filt_neural_data(:,1))> 7.5);
-
-
-for i  = 1:length(buffer)-n;
-    if sum(spike_locations((i):(n+i),1))> 0;
-        
+spike_locations2 = (abs(filt_neural_data_h(:,1))> 7.5);
+for i  = 10:length(buffer2)-n;
+    if i<length(buffer2)/2
+       buffer2(i) = sum(spike_locations2((i):(n+i),1))/n;
+    
+    
+        if buffer2(i)> 0.1*0.2;
+            buffer2(i) = 50*buffer1(i);
+        end
+    
+        if buffer2(i)>0.1;
+           buffer2(i) = 0.1485;
+        end    
     end
  
-    buffer(i) = sum(spike_locations((i):(n+i),1))/n;
-    
-    
-        %if buffer(i)> 0.18;
-        %    buffer(i) = 5*buffer(i);
-        %end
-    
-        if buffer(i)>0.148*0.3;
-           buffer(i) = 0.1485;
-        end 
+  
 
 end
-figure
 
-plot(buffer)
+figure
+%
+plot(buffer2)
 title('test')
-[envHigh, envLow] = envelope(buffer,5,"peak");
-envMean = (envHigh+envLow)/2;
-hoursPerDay = 100;
-coeff24hMA = ones(1, hoursPerDay)/hoursPerDay;
-
-figure
-feature = filter(coeff24hMA, 1, buffer);
-plot(feature)
-figure;
-plot((envMean))
-max(buffer)
