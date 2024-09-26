@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1920 1080">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        font-family: ArialMT, Arial;
+      }
+
+      .cls-1, .cls-4 {
+        fill: #4d4d4f;
+        font-size: 10px;
+      }
+
+      .cls-5 {
+        stroke: blue;
+      }
+
+      .cls-5, .cls-6, .cls-7, .cls-8, .cls-9, .cls-10 {
+        fill: none;
+      }
+
+      .cls-5, .cls-6, .cls-7, .cls-9, .cls-10 {
+        stroke-width: .5px;
+      }
+
+      .cls-5, .cls-6, .cls-8, .cls-9 {
+        stroke-linejoin: round;
+      }
+
+      .cls-2 {
+        font-size: 14px;
+      }
+
+      .cls-6, .cls-10 {
+        stroke: #000;
+      }
+
+      .cls-3 {
+        font-size: 12px;
+      }
+
+      .cls-7 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-7, .cls-9 {
+        stroke: red;
+      }
+
+      .cls-8 {
+        stroke: #262626;
+        stroke-linecap: square;
+      }
+
+      .cls-4 {
+        letter-spacing: 4.9em;
+      }
+
+      .cls-10 {
+        stroke-dasharray: 6 3.6;
+        stroke-linejoin: bevel;
+      }
+    </style>
+  </defs>
+  <!-- Generator: Adobe Illustrator 28.7.1, SVG Export Plug-In . SVG Version: 1.2.0 Build 142)  -->
+  <g>
+    <g id="Layer_1">
+      <g>
+        <path class="cls-8" d="M804.6,663.2h325.8M831.7,663.2v-3.3M886,663.2v-3.3M940.4,663.2v-3.3M994.6,663.2v-3.3M1049,663.2v-3.3M1103.2,663.2v-3.3"/>
+        <text class="cls-4" transform="translate(828.8 677.4)"><tspan x="0" y="0">123456</tspan></text>
+        <path class="cls-8" d="M804.6,663.2v-256.8M804.6,648.6h3.3M804.6,625.4h3.3M804.6,602.3h3.3M804.6,579.2h3.3M804.6,556.1h3.3M804.6,533h3.3M804.6,509.9h3.3M804.6,486.8h3.3M804.6,463.7h3.3M804.6,440.6h3.3M804.6,417.4h3.3"/>
+        <text class="cls-1" transform="translate(794.6 652.5)"><tspan x="0" y="0">0</tspan></text>
+        <text class="cls-1" transform="translate(794.6 606.2)"><tspan x="0" y="0">2</tspan></text>
+        <text class="cls-1" transform="translate(794.6 560)"><tspan x="0" y="0">4</tspan></text>
+        <text class="cls-1" transform="translate(795.2 513.8)"><tspan x="0" y="0">6</tspan></text>
+        <text class="cls-1" transform="translate(796.2 467.6)"><tspan x="0" y="0">8</tspan></text>
+        <text class="cls-1" transform="translate(789.2 421.4)"><tspan x="0" y="0">10</tspan></text>
+        <path class="cls-10" d="M831.7,458.9v-41.1M886,471.3v-40.3M940.4,581.7v-26.2M994.6,581.9v-40.9M1049,532.9v-107.1M1103.2,456.7v-60.9M831.7,531.7v-37.9M886,529.1v-22.4M940.4,641.8v-35.7M994.6,650.5v-36.1M1049,649.4v-40M1103.2,546.7v-41.2"/>
+        <path class="cls-6" d="M825,417.9h13.6M879.3,431h13.6M933.6,555.5h13.6M987.9,540.9h13.6M1042.2,425.8h13.6M1096.5,395.8h13.6M825,531.7h13.6M879.3,529.1h13.6M933.6,641.8h13.6M987.9,650.5h13.6M1042.2,649.4h13.6M1096.5,546.7h13.6"/>
+        <path class="cls-5" d="M825,470.3l-6.8-6.5v-4.8h27.2v4.8l-6.8,6.5,6.8,6.5v17h-27.2v-17l6.8-6.5M879.3,491.3l-6.8-8.2v-11.8h27.2v11.8l-6.8,8.2,6.8,8.2v7.1h-27.2v-7.1l6.8-8.2M933.6,592l-6.8-4v-6.3h27.1v6.3l-6.8,4,6.8,4v10h-27.1v-10l6.8-4M987.9,596.6l-6.8-5.2v-9.5h27.2v9.5l-6.8,5.2,6.8,5.2v12.5h-27.2v-12.5l6.8-5.2M1042.2,590.9l-6.8-18.8v-39.2h27.1v39.2l-6.8,18.8,6.8,18.8v-.2h-27.1v.2l6.8-18.8M1096.5,480.1l-6.8-10.6v-12.8h27.2v12.8l-6.8,10.6,6.8,10.6v14.8h-27.2v-14.8l6.8-10.6"/>
+        <path class="cls-9" d="M825,470.3h13.6M879.3,491.3h13.6M933.6,592h13.6M987.9,596.6h13.6M1042.2,590.9h13.6M1096.5,480.1h13.6"/>
+        <path class="cls-7" d="M831.7,401.8v6M828.7,404.8h6M940.4,502.4v6M937.4,505.4h6M940.4,492.4v6M937.4,495.4h6M940.4,464.3v6M937.4,467.3h6M940.4,461.1v6M937.4,464.1h4.5M1049,411.8v6M1046,414.8h6M1049,402.6v6M1046,405.6h6M1103.2,643.7v6M1100.2,646.7h6M1103.2,640.2v6M1100.2,643.2h6M1103.2,630.6v6M1100.2,633.6h6M1103.2,623.7v6M1100.2,626.7h6M1103.2,597.7v6M1100.2,600.7h6M1103.2,585v6M1100.2,588h6"/>
+      </g>
+      <text class="cls-2" transform="translate(889.8 375.3)"><tspan x="0" y="0">500 - 2000 Hz Bandpass</tspan></text>
+      <text class="cls-3" transform="translate(785.6 544.6) rotate(-88.7)"><tspan x="0" y="0">SNR</tspan></text>
+      <text class="cls-3" transform="translate(943.3 693)"><tspan x="0" y="0">Channels</tspan></text>
+      <text class="cls-3" transform="translate(836.8 392.8) rotate(-90)"><tspan x="0" y="0">3, 4, 5</tspan></text>
+      <text class="cls-3" transform="translate(889.8 421.4) rotate(-90)"><tspan x="0" y="0">3, 4, 5</tspan></text>
+      <text class="cls-3" transform="translate(943.3 451.2) rotate(-90)"><tspan x="0" y="0">6</tspan></text>
+      <text class="cls-3" transform="translate(998.2 526.1) rotate(-90)"><tspan x="0" y="0">6</tspan></text>
+      <text class="cls-3" transform="translate(1052 394.1) rotate(-90)"><tspan x="0" y="0">6</tspan></text>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1920 1080">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        font-family: ArialMT, Arial;
+      }
+
+      .cls-1, .cls-4 {
+        fill: #4d4d4f;
+        font-size: 10px;
+      }
+
+      .cls-5 {
+        stroke: blue;
+      }
+
+      .cls-5, .cls-6, .cls-7, .cls-8, .cls-9, .cls-10 {
+        fill: none;
+      }
+
+      .cls-5, .cls-6, .cls-7, .cls-9, .cls-10 {
+        stroke-width: .5px;
+      }
+
+      .cls-5, .cls-6, .cls-8, .cls-9 {
+        stroke-linejoin: round;
+      }
+
+      .cls-2 {
+        font-size: 14px;
+      }
+
+      .cls-6, .cls-10 {
+        stroke: #000;
+      }
+
+      .cls-3 {
+        font-size: 12px;
+      }
+
+      .cls-7 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-7, .cls-9 {
+        stroke: red;
+      }
+
+      .cls-8 {
+        stroke: #262626;
+        stroke-linecap: square;
+      }
+
+      .cls-4 {
+        letter-spacing: 4.9em;
+      }
+
+      .cls-10 {
+        stroke-dasharray: 6 3.6;
+        stroke-linejoin: bevel;
+      }
+    </style>
+  </defs>
+  <!-- Generator: Adobe Illustrator 28.7.1, SVG Export Plug-In . SVG Version: 1.2.0 Build 142)  -->
+  <g>
+    <g id="Layer_1">
+      <path class="cls-8" d="M804.6,663.2h325.8M831.7,663.2v-3.3M886,663.2v-3.3M940.4,663.2v-3.3M994.6,663.2v-3.3M1049,663.2v-3.3M1103.2,663.2v-3.3"/>
+      <text class="cls-4" transform="translate(828.8 677.4)"><tspan x="0" y="0">123456</tspan></text>
+      <path class="cls-8" d="M804.6,663.2v-256.8M804.6,651.6h3.3M804.6,625.9h3.3M804.6,600.2h3.3M804.6,574.5h3.3M804.6,548.8h3.3M804.6,523.1h3.3M804.6,497.4h3.3M804.6,471.7h3.3M804.6,446h3.3M804.6,420.3h3.3"/>
+      <text class="cls-1" transform="translate(794.6 655.5)"><tspan x="0" y="0">3</tspan></text>
+      <text class="cls-1" transform="translate(794.6 604.1)"><tspan x="0" y="0">4</tspan></text>
+      <text class="cls-1" transform="translate(794.6 552.7)"><tspan x="0" y="0">5</tspan></text>
+      <text class="cls-1" transform="translate(794.6 501.3)"><tspan x="0" y="0">6</tspan></text>
+      <text class="cls-1" transform="translate(794.6 449.9)"><tspan x="0" y="0">7</tspan></text>
+      <path class="cls-10" d="M831.7,526.7v-83.5M886,531.1v-63.6M940.4,528.3v-60.7M994.6,628.6v-27M1049,535.4v-57.1M1103.2,576.1v-26.6M831.7,599.5v-16.4M886,600.6v-15.9M940.4,586.5v-12.6M994.6,651.5v-4.9M1049,587.6v-6.3M1103.2,616.1v-6.2"/>
+      <path class="cls-6" d="M825,443.2h13.6M879.3,467.6h13.6M933.6,467.6h13.6M987.9,601.6h13.6M1042.2,478.3h13.6M1096.5,549.5h13.6M825,599.5h13.6M879.3,600.6h13.6M933.6,586.5h13.6M987.9,651.5h13.6M1042.2,587.6h13.6M1096.5,616.1h13.6"/>
+      <path class="cls-5" d="M825,555.7l-6.8-14.2v-14.8h27.2v14.8l-6.8,14.2,6.8,14.2v13.3h-27.2v-13.3l6.8-14.2M879.3,558.6l-6.8-14.2v-13.3h27.2v13.3l-6.8,14.2,6.8,14.2v11.8h-27.2v-11.8l6.8-14.2M933.6,556.2l-6.8-12.3v-15.6h27.1v15.6l-6.8,12.3,6.8,12.3v5.4h-27.1v-5.4l6.8-12.3M987.9,638.4l-6.8-3.6v-6.2h27.2v6.2l-6.8,3.6,6.8,3.6v4.7h-27.2v-4.7l6.8-3.6M1042.2,564.3l-6.8-16.1v-12.8h27.1v12.8l-6.8,16.1,6.8,16.1v.9h-27.1v-.9l6.8-16.1M1096.5,596.8l-6.8-16v-4.7h27.2v4.7l-6.8,16,6.8,16v-2.9h-27.2v2.9l6.8-16"/>
+      <path class="cls-9" d="M825,555.7h13.6M879.3,558.6h13.6M933.6,556.2h13.6M987.9,638.4h13.6M1042.2,564.3h13.6M1096.5,596.8h13.6"/>
+      <path class="cls-7" d="M831.7,426.2v6M828.7,429.2h6M831.7,415.1v6M828.7,418.1h6M886,416.9v6M883,419.9h6M940.4,443.5v6M937.4,446.5h6M940.4,438.3v6M937.4,441.3h6M940.4,423.6v6M937.4,426.6h6M994.6,592.7v6M991.6,595.7h6M994.6,591.1v6M991.6,594.1h6"/>
+      <text class="cls-2" transform="translate(911 388.7)"><tspan x="0" y="0">15 - 500 Hz Bandpass</tspan></text>
+      <text class="cls-3" transform="translate(782.6 542.9) rotate(-88.7)"><tspan x="0" y="0">SNR</tspan></text>
+      <text class="cls-3" transform="translate(940.3 691.3)"><tspan x="0" y="0">Channels</tspan></text>
+      <text class="cls-3" transform="translate(834.8 406.3) rotate(-90)"><tspan x="0" y="0">4</tspan></text>
+      <text class="cls-3" transform="translate(889.1 409.7) rotate(-90)"><tspan x="0" y="0">4</tspan></text>
+      <text class="cls-3" transform="translate(943.4 418.1) rotate(-90)"><tspan x="0" y="0">4, 6</tspan></text>
+      <text class="cls-3" transform="translate(997.8 576.1) rotate(-90)"><tspan x="0" y="0">5</tspan></text>
+    </g>
+  </g>
+</svg>
